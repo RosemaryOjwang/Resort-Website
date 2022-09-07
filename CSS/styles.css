@@ -6,3 +6,20 @@ body{
   background-attachment: fixed;
 
   }
+  h1{
+    text-align: center;
+  }
+  h2{
+    text-align: center;
+  }
+  h3{
+    text-align: center;
+  }
+  p{
+    text-align: justify;
+    color:midnightblue;
+    font-size: 20px;
+  }
+  img{
+    
+  }
