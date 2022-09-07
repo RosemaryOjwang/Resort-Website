@@ -6,3 +6,22 @@ body{
   background-size: cover;
   text-align: justify;
   }
+  marquee{
+    behavior: scroll;
+    direction: left;
+
+  }
+  .topnav{
+    height: 10%;
+    width: 100%;
+    background-color: #284420;
+  }
+  a{
+    color: #FFFFFF;
+    margin-left: 45px;
+    margin-right: 35px;
+    text-decoration: none;
+    font-size: 25px;
+
+
+  }
