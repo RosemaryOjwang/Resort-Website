@@ -22,8 +22,9 @@ h3 {
 
 p {
   text-align: justify;
-  color: midnightblue;
+  color: #FFD700;
   font-size: 20px;
+  font-weight: bolder
 }
 
 a {
@@ -44,13 +45,19 @@ img {
   border-radius: 35px;
   border: 2px solid #000000;
   width: 350px;
-  height: auto;
+  height: 200px;
 }
 
 .align-center {
   margin-left: 35%;
 }
-li{
+
+.align-right {
+  margin-left: 12%
+}
+
+
+li {
   font-size: 25px;
   color: #FFFFFF;
 }
